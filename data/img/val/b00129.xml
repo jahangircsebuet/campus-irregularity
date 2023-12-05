@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>b00129.jpg</filename>
+	<size>
+		<width>550</width>
+		<height>342</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>210</xmax>
+			<ymin>107</ymin>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>384</xmin>
+			<xmax>403</xmax>
+			<ymin>284</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>444</xmin>
+			<xmax>478</xmax>
+			<ymin>85</ymin>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

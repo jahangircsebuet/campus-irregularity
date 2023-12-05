@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>SMG_81.jpeg</filename>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>SMG</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>291</xmin>
+			<xmax>879</xmax>
+			<ymin>75</ymin>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>a00085-0.jpg</filename>
+	<size>
+		<width>480</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>128</xmin>
+			<xmax>166</xmax>
+			<ymin>103</ymin>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>346</xmin>
+			<xmax>377</xmax>
+			<ymin>190</ymin>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Automatic Rifle_32.jpeg</filename>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>442</xmax>
+			<ymin>32</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

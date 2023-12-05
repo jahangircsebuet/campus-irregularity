@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>MBsframe00163.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1090</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1066</xmin>
+			<xmax>1180</xmax>
+			<ymin>521</ymin>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

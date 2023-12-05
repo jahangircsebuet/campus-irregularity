@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>DefenseKnifeAttack0337.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>364</xmin>
+			<xmax>534</xmax>
+			<ymin>544</ymin>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>a00414-0.jpg</filename>
+	<size>
+		<width>500</width>
+		<height>487</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>99</xmax>
+			<ymin>211</ymin>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>313</xmin>
+			<xmax>365</xmax>
+			<ymin>316</ymin>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

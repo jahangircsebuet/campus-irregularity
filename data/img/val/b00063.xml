@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>b00063.jpeg</filename>
+	<size>
+		<width>604</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>256</xmin>
+			<xmax>315</xmax>
+			<ymin>151</ymin>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>163</xmin>
+			<xmax>206</xmax>
+			<ymin>263</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

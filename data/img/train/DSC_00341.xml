@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>DSC_00341.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>948</xmin>
+			<xmax>1035</xmax>
+			<ymin>314</ymin>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

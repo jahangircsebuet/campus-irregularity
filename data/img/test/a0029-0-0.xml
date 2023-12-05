@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>a0029-0-0.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>1525</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>827</xmin>
+			<xmax>1243</xmax>
+			<ymin>602</ymin>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

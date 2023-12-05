@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>bb0247.jpg</filename>
+	<size>
+		<width>600</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>548</xmin>
+			<xmax>570</xmax>
+			<ymin>64</ymin>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>146</xmax>
+			<ymin>274</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Knife_12.jpeg</filename>
+	<size>
+		<width>1200</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>43</xmin>
+			<xmax>1150</xmax>
+			<ymin>402</ymin>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+</annotation>

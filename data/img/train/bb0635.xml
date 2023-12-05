@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>bb0635.jpg</filename>
+	<size>
+		<width>794</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>48</xmin>
+			<xmax>217</xmax>
+			<ymin>257</ymin>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>443</xmin>
+			<xmax>542</xmax>
+			<ymin>675</ymin>
+			<ymax>1014</ymax>
+		</bndbox>
+	</object>
+</annotation>

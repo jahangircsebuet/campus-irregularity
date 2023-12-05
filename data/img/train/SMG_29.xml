@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>SMG_29.png</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>SMG</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>601</xmin>
+			<xmax>1581</xmax>
+			<ymin>353</ymin>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SMG</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1330</xmin>
+			<xmax>1450</xmax>
+			<ymin>826</ymin>
+			<ymax>889</ymax>
+		</bndbox>
+	</object>
+</annotation>

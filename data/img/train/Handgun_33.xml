@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Handgun_33.png</filename>
+	<size>
+		<width>1202</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Handgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>707</xmin>
+			<xmax>1032</xmax>
+			<ymin>0</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Handgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>336</xmin>
+			<xmax>738</xmax>
+			<ymin>34</ymin>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>b00164.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>54</xmin>
+			<xmax>103</xmax>
+			<ymin>188</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>226</xmin>
+			<xmax>277</xmax>
+			<ymin>118</ymin>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>346</xmin>
+			<xmax>376</xmax>
+			<ymin>262</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

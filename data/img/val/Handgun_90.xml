@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Handgun_90.jpeg</filename>
+	<size>
+		<width>792</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Handgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>233</xmin>
+			<xmax>775</xmax>
+			<ymin>37</ymin>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Handgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>426</xmax>
+			<ymin>1</ymin>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

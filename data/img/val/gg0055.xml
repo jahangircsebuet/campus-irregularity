@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>gg0055.jpg</filename>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>183</xmax>
+			<ymin>572</ymin>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

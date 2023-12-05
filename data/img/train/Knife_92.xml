@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Knife_92.png</filename>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>799</xmax>
+			<ymin>296</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>781</xmax>
+			<ymin>433</ymin>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

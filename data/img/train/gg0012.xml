@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>gg0012.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>684</xmin>
+			<xmax>809</xmax>
+			<ymin>292</ymin>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>224</xmax>
+			<ymin>376</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

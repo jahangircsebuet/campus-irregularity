@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>ggg271.jpg</filename>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>359</xmin>
+			<xmax>484</xmax>
+			<ymin>339</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>530</xmin>
+			<xmax>641</xmax>
+			<ymin>340</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

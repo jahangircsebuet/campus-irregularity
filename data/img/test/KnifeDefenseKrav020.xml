@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>KnifeDefenseKrav020.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>564</xmin>
+			<xmax>706</xmax>
+			<ymin>25</ymin>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

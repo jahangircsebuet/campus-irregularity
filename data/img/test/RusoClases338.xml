@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>RusoClases338.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>500</xmin>
+			<xmax>633</xmax>
+			<ymin>302</ymin>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

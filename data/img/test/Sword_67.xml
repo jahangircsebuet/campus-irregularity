@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Sword_67.jpeg</filename>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Sword</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>833</xmax>
+			<ymin>95</ymin>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sword</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>337</xmin>
+			<xmax>920</xmax>
+			<ymin>153</ymin>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+</annotation>

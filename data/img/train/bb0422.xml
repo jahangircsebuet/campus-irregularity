@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>bb0422.jpg</filename>
+	<size>
+		<width>1560</width>
+		<height>1074</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>787</xmin>
+			<xmax>845</xmax>
+			<ymin>140</ymin>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1055</xmin>
+			<xmax>1167</xmax>
+			<ymin>358</ymin>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>496</xmin>
+			<xmax>541</xmax>
+			<ymin>366</ymin>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

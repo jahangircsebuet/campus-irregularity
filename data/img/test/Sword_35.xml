@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Sword_35.png</filename>
+	<size>
+		<width>585</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Sword</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>536</xmax>
+			<ymin>74</ymin>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

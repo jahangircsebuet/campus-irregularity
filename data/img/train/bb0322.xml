@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>bb0322.jpg</filename>
+	<size>
+		<width>1300</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>422</xmin>
+			<xmax>491</xmax>
+			<ymin>249</ymin>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>747</xmin>
+			<xmax>816</xmax>
+			<ymin>320</ymin>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

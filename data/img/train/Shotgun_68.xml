@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Shotgun_68.jpeg</filename>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>shotgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>2047</xmax>
+			<ymin>854</ymin>
+			<ymax>1186</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Handgun_31.jpeg</filename>
+	<size>
+		<width>1200</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Handgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>390</xmin>
+			<xmax>1098</xmax>
+			<ymin>18</ymin>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

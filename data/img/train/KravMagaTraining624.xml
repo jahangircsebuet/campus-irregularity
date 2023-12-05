@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>KravMagaTraining624.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1131</xmin>
+			<xmax>1198</xmax>
+			<ymin>291</ymin>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Sniper_5.jpeg</filename>
+	<size>
+		<width>3712</width>
+		<height>2712</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Sniper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1820</xmin>
+			<xmax>3332</xmax>
+			<ymin>775</ymin>
+			<ymax>1820</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sniper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>228</xmin>
+			<xmax>1025</xmax>
+			<ymin>720</ymin>
+			<ymax>1703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sniper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>985</xmin>
+			<xmax>2386</xmax>
+			<ymin>991</ymin>
+			<ymax>1903</ymax>
+		</bndbox>
+	</object>
+</annotation>

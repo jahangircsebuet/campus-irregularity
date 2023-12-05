@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Shotgun_29.jpeg</filename>
+	<size>
+		<width>1144</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>shotgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>767</xmin>
+			<xmax>1059</xmax>
+			<ymin>220</ymin>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shotgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>84</xmin>
+			<xmax>368</xmax>
+			<ymin>229</ymin>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shotgun</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>422</xmin>
+			<xmax>710</xmax>
+			<ymin>228</ymin>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

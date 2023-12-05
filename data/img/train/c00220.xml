@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>c00220.jpg</filename>
+	<size>
+		<width>158</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>106</xmin>
+			<xmax>133</xmax>
+			<ymin>80</ymin>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>43</xmax>
+			<ymin>62</ymin>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

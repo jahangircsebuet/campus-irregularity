@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>RealityKnifeAttacks0180.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>570</xmin>
+			<xmax>659</xmax>
+			<ymin>363</ymin>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

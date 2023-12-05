@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>bb0595.jpg</filename>
+	<size>
+		<width>1300</width>
+		<height>1123</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>457</xmin>
+			<xmax>615</xmax>
+			<ymin>583</ymin>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>288</xmin>
+			<xmax>361</xmax>
+			<ymin>536</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

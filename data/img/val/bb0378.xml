@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>bb0378.jpg</filename>
+	<size>
+		<width>900</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>421</xmin>
+			<xmax>484</xmax>
+			<ymin>90</ymin>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>595</xmin>
+			<xmax>642</xmax>
+			<ymin>390</ymin>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

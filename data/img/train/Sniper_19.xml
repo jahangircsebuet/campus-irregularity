@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Sniper_19.jpeg</filename>
+	<size>
+		<width>1300</width>
+		<height>821</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Sniper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>1259</xmax>
+			<ymin>453</ymin>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sniper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>1271</xmax>
+			<ymin>100</ymin>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

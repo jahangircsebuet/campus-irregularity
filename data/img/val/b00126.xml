@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>b00126.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>323</xmin>
+			<xmax>422</xmax>
+			<ymin>218</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>218</xmin>
+			<xmax>264</xmax>
+			<ymin>162</ymin>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>424</xmin>
+			<xmax>463</xmax>
+			<ymin>137</ymin>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

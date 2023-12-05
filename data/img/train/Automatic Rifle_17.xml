@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Automatic Rifle_17.jpeg</filename>
+	<size>
+		<width>1751</width>
+		<height>1110</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>322</xmin>
+			<xmax>844</xmax>
+			<ymin>978</ymin>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>376</xmin>
+			<xmax>924</xmax>
+			<ymin>645</ymin>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>947</xmin>
+			<xmax>1502</xmax>
+			<ymin>76</ymin>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>406</xmax>
+			<ymin>717</ymin>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>364</xmin>
+			<xmax>815</xmax>
+			<ymin>179</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1236</xmin>
+			<xmax>1529</xmax>
+			<ymin>696</ymin>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>342</xmin>
+			<xmax>893</xmax>
+			<ymin>845</ymin>
+			<ymax>977</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>402</xmax>
+			<ymin>152</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>916</xmin>
+			<xmax>1471</xmax>
+			<ymin>468</ymin>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>467</xmax>
+			<ymin>563</ymin>
+			<ymax>708</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>893</xmin>
+			<xmax>1516</xmax>
+			<ymin>924</ymin>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>906</xmin>
+			<xmax>1236</xmax>
+			<ymin>689</ymin>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>409</xmin>
+			<xmax>813</xmax>
+			<ymin>484</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>900</xmin>
+			<xmax>1450</xmax>
+			<ymin>835</ymin>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>951</xmin>
+			<xmax>1516</xmax>
+			<ymin>568</ymin>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>274</xmin>
+			<xmax>828</xmax>
+			<ymin>33</ymin>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>398</xmin>
+			<xmax>822</xmax>
+			<ymin>324</ymin>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>887</xmin>
+			<xmax>1475</xmax>
+			<ymin>371</ymin>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>919</xmin>
+			<xmax>1497</xmax>
+			<ymin>227</ymin>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Automatic Rifle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>438</xmax>
+			<ymin>290</ymin>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

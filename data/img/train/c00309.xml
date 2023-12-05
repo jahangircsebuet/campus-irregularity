@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>c00309.jpg</filename>
+	<size>
+		<width>1300</width>
+		<height>1063</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>394</xmin>
+			<xmax>485</xmax>
+			<ymin>473</ymin>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>437</xmin>
+			<xmax>533</xmax>
+			<ymin>463</ymin>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>

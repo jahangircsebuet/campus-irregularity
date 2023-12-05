@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Sniper_31.jpeg</filename>
+	<size>
+		<width>1200</width>
+		<height>579</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Sniper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>1161</xmax>
+			<ymin>123</ymin>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

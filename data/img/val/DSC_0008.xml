@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>DSC_0008.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>921</xmin>
+			<xmax>976</xmax>
+			<ymin>467</ymin>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>

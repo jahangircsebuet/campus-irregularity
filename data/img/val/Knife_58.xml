@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Knife_58.jpeg</filename>
+	<size>
+		<width>3000</width>
+		<height>1688</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1974</xmin>
+			<xmax>2871</xmax>
+			<ymin>51</ymin>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1203</xmin>
+			<xmax>2109</xmax>
+			<ymin>563</ymin>
+			<ymax>1457</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knife</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>286</xmin>
+			<xmax>1219</xmax>
+			<ymin>211</ymin>
+			<ymax>1119</ymax>
+		</bndbox>
+	</object>
+</annotation>

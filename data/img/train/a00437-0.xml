@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>a00437-0.jpg</filename>
+	<size>
+		<width>4614</width>
+		<height>3390</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1084</xmin>
+			<xmax>1271</xmax>
+			<ymin>590</ymin>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>2567</xmin>
+			<xmax>3075</xmax>
+			<ymin>1031</ymin>
+			<ymax>1491</ymax>
+		</bndbox>
+	</object>
+</annotation>

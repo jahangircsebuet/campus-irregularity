@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Bazooka_50.png</filename>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<object>
+		<name>Bazooka</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>794</xmax>
+			<ymin>346</ymin>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

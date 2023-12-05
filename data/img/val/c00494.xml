@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>c00494.jpg</filename>
+	<size>
+		<width>449</width>
+		<height>628</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>422</xmax>
+			<ymin>454</ymin>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>93</xmin>
+			<xmax>134</xmax>
+			<ymin>5</ymin>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>145</xmin>
+			<xmax>419</xmax>
+			<ymin>438</ymin>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

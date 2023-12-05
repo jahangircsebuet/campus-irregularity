@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Grenade Launcher_78.jpeg</filename>
+	<size>
+		<width>1067</width>
+		<height>599</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Grenade Launcher</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>941</xmax>
+			<ymin>9</ymin>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>
